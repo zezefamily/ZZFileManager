@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ZZFileManager.h"
 
 FOUNDATION_EXPORT double ZZFileManagerVersionNumber;
 FOUNDATION_EXPORT const unsigned char ZZFileManagerVersionString[];

@@ -13,31 +13,32 @@
 		14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */; };
 		14C511527597E5846AB2627F791C7D8E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 716A9972B9D9103B54DB950893FAF104 /* QuartzCore.framework */; };
 		1642BFDFC1537A7F39CF9E0AE2E6A0F8 /* Pods-ZZFileManager_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E4E201074DEFDB8C9BAEDF3AFD96351 /* Pods-ZZFileManager_Tests-dummy.m */; };
-		1F0DD86E858E98901EDF915518018154 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		1FBE2D4F5FCCAC84D81F4F2DABA83128 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		2DCFF0CE0BD295F1D46D3247F36B192C /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */; };
+		31D542BCA581B5BC7288499A2B0B2D21 /* ZZFileManager-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A97E00D63F692A58359028BAF7386C36 /* ZZFileManager-dummy.m */; };
 		40039E0AF0D764360B1D4FC4F7950D2E /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		4375D134AFC98FC0B3AA10F480C97DE5 /* ZZFileManager-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FECC43475902546C53F737589123EA02 /* ZZFileManager-dummy.m */; };
-		47C50EC09FBD55C733E39ACCE1284A3E /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = BFDF5BC8DEBEC52BF6DF679EEFD73DBB /* ReplaceMe.m */; };
 		6AE239C5D116E1C06F5705699FB9EAF0 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E601BD54DA9BF4071437E60125281FA /* XCTest.framework */; };
 		6DBC8EB7532E931C2FBDA71D1E0B66A4 /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */; };
+		72D6745F17E23F2767CFD47BD56B8BD3 /* ZZFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E87D13537E4D7229F23614F9134097CF /* ZZFileManager.m */; };
 		7D5B8DC7E8C928D5D9C524A894E46A07 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */; };
 		8CE3BF0ACE07EA42DD5DAC871BF4B767 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */; };
 		90142C6259374E18E640396A59AD379A /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9BF7595492929462E0CEB7C0DEA2A574 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		9D65089019D558E5A9661F2DCAD20313 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */; };
 		A525E29E0A8079B35B793D8A2B5FBDF2 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */; };
+		A69598DFE962EEF532549D22F550DFC5 /* ZZFileManager-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 59B7040B3016335292FE793A8F63185D /* ZZFileManager-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B0F30188586DE86A2B1D288338CCC4D1 /* Pods-ZZFileManager_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B0FE3AC3389113DBD8EBBA65193EE81 /* Pods-ZZFileManager_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B25D795BDC4F426BC01EFC911F368B81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		B39ECC9B83EC013D35FD6552B043594D /* Pods-ZZFileManager_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 475B5869A9917E04947F4B9DAEE600D9 /* Pods-ZZFileManager_Example-dummy.m */; };
 		B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		C49D52712466511E332C952834C81FE1 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CE42584CBCAAF1CDEB17005A4A0A1EFE /* ZZFileManager-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 316E56F6F2F01576DDEAD0048252C4A8 /* ZZFileManager-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		E0B8D095C732352C854D365B9E5B993D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CAA89EEF1039078430D7A886477E365 /* UIKit.framework */; };
 		E8AC509D18EBF21B1FEA909652A01108 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */; };
 		F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		F720FAF13A108CE6901E0A8B0580E1E8 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FF218790C23E1C4D97EFF3B9BCC19898 /* ZZFileManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 13AD053A05A33BEC831254F4685CD0B4 /* ZZFileManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,39 +66,41 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0278BBDAF03EB1B496B61E05D22FA879 /* ZZFileManager.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZZFileManager.release.xcconfig; sourceTree = "<group>"; };
 		075CCD601B443D3EE1D95D2E6A968AF1 /* Pods-ZZFileManager_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZZFileManager_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		0AD48E20F933164BDD0DDF0055F571EE /* ZZFileManager.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ZZFileManager.modulemap; sourceTree = "<group>"; };
 		0B47E082A0C494C7B4AC36BCE477500E /* Pods-ZZFileManager_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZZFileManager_Tests-umbrella.h"; sourceTree = "<group>"; };
 		0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
+		13AD053A05A33BEC831254F4685CD0B4 /* ZZFileManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ZZFileManager.h; path = ZZFileManager/Classes/ZZFileManager.h; sourceTree = "<group>"; };
+		149C5C152D85C40C64A7D77D4350783F /* ZZFileManager-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZZFileManager-prefix.pch"; sourceTree = "<group>"; };
 		1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
-		1B7E5D18DF5D3B0B58DE2E1A25E914EA /* Pods_ZZFileManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ZZFileManager_Tests.framework; path = "Pods-ZZFileManager_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B7E5D18DF5D3B0B58DE2E1A25E914EA /* Pods_ZZFileManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZZFileManager_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BD5995D85DE4A2239BD6415D596602F /* Pods-ZZFileManager_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZZFileManager_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
 		2540634A6BBD785F733A68166D9F9B00 /* Pods-ZZFileManager_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZZFileManager_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
-		28005C8634E7EBA86DCE53895A5FF6A1 /* ZZFileManager.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ZZFileManager.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
-		316E56F6F2F01576DDEAD0048252C4A8 /* ZZFileManager-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZZFileManager-umbrella.h"; sourceTree = "<group>"; };
+		34177F58F44D7CB143E108A77D838BD6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		36270437EC7EA610270B475A8DEF0660 /* Pods-ZZFileManager_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZZFileManager_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		3CAFC46C84D325A6C26C687A07D7D4ED /* Pods-ZZFileManager_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZZFileManager_Example.release.xcconfig"; sourceTree = "<group>"; };
 		3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
-		4538DC85779D65402DB0CE98B15879F0 /* ZZFileManager-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ZZFileManager-Info.plist"; sourceTree = "<group>"; };
 		4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		475B5869A9917E04947F4B9DAEE600D9 /* Pods-ZZFileManager_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZZFileManager_Example-dummy.m"; sourceTree = "<group>"; };
 		4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.release.xcconfig; sourceTree = "<group>"; };
-		5005D32FFBC298BFAB8A7352259DAE37 /* ZZFileManager-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZZFileManager-prefix.pch"; sourceTree = "<group>"; };
 		57E13FF4BD3AD6C5AD4A4825B81DDF42 /* Pods-ZZFileManager_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZZFileManager_Tests-Info.plist"; sourceTree = "<group>"; };
-		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		59B7040B3016335292FE793A8F63185D /* ZZFileManager-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZZFileManager-umbrella.h"; sourceTree = "<group>"; };
+		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CFB33FDEEC0C1DE4104EC64350C1DDA /* Pods-ZZFileManager_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZZFileManager_Example-Info.plist"; sourceTree = "<group>"; };
 		5E601BD54DA9BF4071437E60125281FA /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
+		6997F107EE50B3B8A44763EAED260768 /* ZZFileManager.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ZZFileManager.modulemap; sourceTree = "<group>"; };
 		6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
+		6E3A6D6F8862BC4AC409CA8A707C3716 /* ZZFileManager.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZZFileManager.debug.xcconfig; sourceTree = "<group>"; };
 		716A9972B9D9103B54DB950893FAF104 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
+		757D622E5467F5A43D006DD5894F39AF /* ZZFileManager.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ZZFileManager.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7CAF69F523B4AF35AC9E2EE5AF6D82B5 /* Pods-ZZFileManager_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZZFileManager_Tests.modulemap"; sourceTree = "<group>"; };
 		7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
-		87F10D9DD6F65D14D26178A91FD1CCFC /* Pods_ZZFileManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ZZFileManager_Example.framework; path = "Pods-ZZFileManager_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		87F10D9DD6F65D14D26178A91FD1CCFC /* Pods_ZZFileManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZZFileManager_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8841F53D0487CFADFA2163A45AE68756 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		8CAA89EEF1039078430D7A886477E365 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		8E4E201074DEFDB8C9BAEDF3AFD96351 /* Pods-ZZFileManager_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZZFileManager_Tests-dummy.m"; sourceTree = "<group>"; };
@@ -105,42 +108,41 @@
 		9468E867498BBAF36F9AFFE4845F8B09 /* FBSnapshotTestCase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.debug.xcconfig; sourceTree = "<group>"; };
 		96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
+		99AFA258EAA99360B8486FD8D65EEAFE /* ZZFileManager.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZZFileManager.release.xcconfig; sourceTree = "<group>"; };
 		9B0FE3AC3389113DBD8EBBA65193EE81 /* Pods-ZZFileManager_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZZFileManager_Example-umbrella.h"; sourceTree = "<group>"; };
-		9D129A105FFC7402778A940F5F1065FC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A938948719A2F34F2A11AABF06A1C41A /* Pods-ZZFileManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZZFileManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		AA89C5BA13796855782A170E7016B5F8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		A97E00D63F692A58359028BAF7386C36 /* ZZFileManager-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZZFileManager-dummy.m"; sourceTree = "<group>"; };
 		AC1B9151534C66F6848BC3CECA562DD8 /* Pods-ZZFileManager_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZZFileManager_Example-frameworks.sh"; sourceTree = "<group>"; };
 		AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
 		B7103CA00AED20722C5B69CA5B4F6938 /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
-		BFDF5BC8DEBEC52BF6DF679EEFD73DBB /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = ZZFileManager/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		C9A10727B39C101578FBFC5984C154D8 /* Pods-ZZFileManager_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZZFileManager_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		CBFF6C5FD9C3A84274A9314D3E940B6E /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
 		CF9AC87E6E325693044EC0993D33F50F /* Pods-ZZFileManager_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZZFileManager_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		D08CEBB9BDD9EF7A662ECFC0305C169E /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		D8CABFFBAC5DF93C5A21539AF01421FF /* Pods-ZZFileManager_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZZFileManager_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		EAD10EBDD6B53189A955217670411677 /* ZZFileManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ZZFileManager.framework; path = ZZFileManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FA2E62A2C2A2479E6CC243785619F219 /* ZZFileManager.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZZFileManager.debug.xcconfig; sourceTree = "<group>"; };
+		E87D13537E4D7229F23614F9134097CF /* ZZFileManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ZZFileManager.m; path = ZZFileManager/Classes/ZZFileManager.m; sourceTree = "<group>"; };
+		EAD10EBDD6B53189A955217670411677 /* ZZFileManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ZZFileManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EEAB5AF322ED21C308479341B64EC345 /* ZZFileManager-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ZZFileManager-Info.plist"; sourceTree = "<group>"; };
 		FBF7FA06C32DA4FF88D9C705ABFA2866 /* Pods-ZZFileManager_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZZFileManager_Example.modulemap"; sourceTree = "<group>"; };
-		FECC43475902546C53F737589123EA02 /* ZZFileManager-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZZFileManager-dummy.m"; sourceTree = "<group>"; };
 		FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		200D4D5BE93CB8C74C5CBCAB25EC5589 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BF7595492929462E0CEB7C0DEA2A574 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5E65C24FA332A1AD13182EF5BDC49926 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				1FBE2D4F5FCCAC84D81F4F2DABA83128 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		B5F4BAD9E5D1CDE4422C582BE893C386 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				1F0DD86E858E98901EDF915518018154 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,16 +168,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		03CF84DB36298C6DDC3D56562BC89443 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				9D129A105FFC7402778A940F5F1065FC /* LICENSE */,
-				AA89C5BA13796855782A170E7016B5F8 /* README.md */,
-				28005C8634E7EBA86DCE53895A5FF6A1 /* ZZFileManager.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		2FA197B97D6C673D9D4BF240F2A35DFB /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -185,14 +177,6 @@
 				EAD10EBDD6B53189A955217670411677 /* ZZFileManager.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		3251A861157A663FD3CF20C7EA09BA22 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				71C8AE4E4616DCDC87844C284B669123 /* ZZFileManager */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		4BA2479549DD918290454B1CDCD0B92B /* Core */ = {
@@ -216,15 +200,12 @@
 			name = Core;
 			sourceTree = "<group>";
 		};
-		71C8AE4E4616DCDC87844C284B669123 /* ZZFileManager */ = {
+		511B1EB56004CB798092E1C02CAB84D0 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				BFDF5BC8DEBEC52BF6DF679EEFD73DBB /* ReplaceMe.m */,
-				03CF84DB36298C6DDC3D56562BC89443 /* Pod */,
-				E19E6A0FDF371FEFFB2DB13F05D7F559 /* Support Files */,
+				A3DA4BB6A497CD8AA1DF5D2AEA7F8934 /* ZZFileManager */,
 			);
-			name = ZZFileManager;
-			path = ../..;
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		791C9B7BCF5FC37016DCCAEEFB5E795E /* Pods-ZZFileManager_Example */ = {
@@ -255,12 +236,34 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		7FF2478B41E8059E7C332E7BA9DAF619 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				8841F53D0487CFADFA2163A45AE68756 /* LICENSE */,
+				34177F58F44D7CB143E108A77D838BD6 /* README.md */,
+				757D622E5467F5A43D006DD5894F39AF /* ZZFileManager.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */ = {
 			isa = PBXGroup;
 			children = (
 				3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */,
 			);
 			name = SwiftSupport;
+			sourceTree = "<group>";
+		};
+		A3DA4BB6A497CD8AA1DF5D2AEA7F8934 /* ZZFileManager */ = {
+			isa = PBXGroup;
+			children = (
+				13AD053A05A33BEC831254F4685CD0B4 /* ZZFileManager.h */,
+				E87D13537E4D7229F23614F9134097CF /* ZZFileManager.m */,
+				7FF2478B41E8059E7C332E7BA9DAF619 /* Pod */,
+				D298F1D35745E8D9C26EA88B667D6B22 /* Support Files */,
+			);
+			name = ZZFileManager;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		A86F878994EF5C566DA83B4615171ED8 /* Pods-ZZFileManager_Tests */ = {
@@ -310,7 +313,6 @@
 				B69B2ECE2D2C9A3924A9231138CE0BBC /* Support Files */,
 				906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */,
 			);
-			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
@@ -318,12 +320,27 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				3251A861157A663FD3CF20C7EA09BA22 /* Development Pods */,
+				511B1EB56004CB798092E1C02CAB84D0 /* Development Pods */,
 				BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */,
 				E81A37DBDE41E671312C56736544E2FA /* Pods */,
 				2FA197B97D6C673D9D4BF240F2A35DFB /* Products */,
 				D3D95753FA73EC1F04FEB943F3C0AC5D /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		D298F1D35745E8D9C26EA88B667D6B22 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				6997F107EE50B3B8A44763EAED260768 /* ZZFileManager.modulemap */,
+				A97E00D63F692A58359028BAF7386C36 /* ZZFileManager-dummy.m */,
+				EEAB5AF322ED21C308479341B64EC345 /* ZZFileManager-Info.plist */,
+				149C5C152D85C40C64A7D77D4350783F /* ZZFileManager-prefix.pch */,
+				59B7040B3016335292FE793A8F63185D /* ZZFileManager-umbrella.h */,
+				6E3A6D6F8862BC4AC409CA8A707C3716 /* ZZFileManager.debug.xcconfig */,
+				99AFA258EAA99360B8486FD8D65EEAFE /* ZZFileManager.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/ZZFileManager";
 			sourceTree = "<group>";
 		};
 		D3D95753FA73EC1F04FEB943F3C0AC5D /* Targets Support Files */ = {
@@ -333,21 +350,6 @@
 				A86F878994EF5C566DA83B4615171ED8 /* Pods-ZZFileManager_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		E19E6A0FDF371FEFFB2DB13F05D7F559 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				0AD48E20F933164BDD0DDF0055F571EE /* ZZFileManager.modulemap */,
-				FECC43475902546C53F737589123EA02 /* ZZFileManager-dummy.m */,
-				4538DC85779D65402DB0CE98B15879F0 /* ZZFileManager-Info.plist */,
-				5005D32FFBC298BFAB8A7352259DAE37 /* ZZFileManager-prefix.pch */,
-				316E56F6F2F01576DDEAD0048252C4A8 /* ZZFileManager-umbrella.h */,
-				FA2E62A2C2A2479E6CC243785619F219 /* ZZFileManager.debug.xcconfig */,
-				0278BBDAF03EB1B496B61E05D22FA879 /* ZZFileManager.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/ZZFileManager";
 			sourceTree = "<group>";
 		};
 		E81A37DBDE41E671312C56736544E2FA /* Pods */ = {
@@ -361,6 +363,15 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		2F831E65574B6B1CAAB4F823EEA31F36 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A69598DFE962EEF532549D22F550DFC5 /* ZZFileManager-umbrella.h in Headers */,
+				FF218790C23E1C4D97EFF3B9BCC19898 /* ZZFileManager.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		384DE8A8021C5DA5E256BCFEC3D478A9 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -381,14 +392,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0F30188586DE86A2B1D288338CCC4D1 /* Pods-ZZFileManager_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CC89417430AD0CCA247F4CC75B80215C /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CE42584CBCAAF1CDEB17005A4A0A1EFE /* ZZFileManager-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -425,12 +428,12 @@
 		};
 		31050741C37CFAA09A71B3D57F1301FA /* ZZFileManager */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D1AE6CF2D0F501561E58D7595594E1F /* Build configuration list for PBXNativeTarget "ZZFileManager" */;
+			buildConfigurationList = C0C139D903FD5426ADEBAF269A04A56C /* Build configuration list for PBXNativeTarget "ZZFileManager" */;
 			buildPhases = (
-				CC89417430AD0CCA247F4CC75B80215C /* Headers */,
-				C9B86D9A45EBD3344CAD24D84BE7E26E /* Sources */,
-				B5F4BAD9E5D1CDE4422C582BE893C386 /* Frameworks */,
-				A82FFF0CE304ABD6F07BB5AAE82C014E /* Resources */,
+				2F831E65574B6B1CAAB4F823EEA31F36 /* Headers */,
+				413AAE4FFF2FDAF63376B8B8A4C8CE91 /* Sources */,
+				200D4D5BE93CB8C74C5CBCAB25EC5589 /* Frameworks */,
+				B4ACA347884EAA7C303C3977F9DFDB9B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -530,7 +533,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A82FFF0CE304ABD6F07BB5AAE82C014E /* Resources */ = {
+		B4ACA347884EAA7C303C3977F9DFDB9B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -545,6 +548,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				1642BFDFC1537A7F39CF9E0AE2E6A0F8 /* Pods-ZZFileManager_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		413AAE4FFF2FDAF63376B8B8A4C8CE91 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				31D542BCA581B5BC7288499A2B0B2D21 /* ZZFileManager-dummy.m in Sources */,
+				72D6745F17E23F2767CFD47BD56B8BD3 /* ZZFileManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -572,15 +584,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C9B86D9A45EBD3344CAD24D84BE7E26E /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				47C50EC09FBD55C733E39ACCE1284A3E /* ReplaceMe.m in Sources */,
-				4375D134AFC98FC0B3AA10F480C97DE5 /* ZZFileManager-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -605,37 +608,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0A66E803EE6FC3726D8B8367EC5427B8 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FA2E62A2C2A2479E6CC243785619F219 /* ZZFileManager.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ZZFileManager/ZZFileManager-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ZZFileManager/ZZFileManager-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ZZFileManager/ZZFileManager.modulemap";
-				PRODUCT_MODULE_NAME = ZZFileManager;
-				PRODUCT_NAME = ZZFileManager;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		1045629F391951DE98495258900E7E1C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2540634A6BBD785F733A68166D9F9B00 /* Pods-ZZFileManager_Tests.debug.xcconfig */;
@@ -668,38 +640,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		2090C6F2AC44ED840175117CC83DC839 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0278BBDAF03EB1B496B61E05D22FA879 /* ZZFileManager.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ZZFileManager/ZZFileManager-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ZZFileManager/ZZFileManager-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ZZFileManager/ZZFileManager.modulemap";
-				PRODUCT_MODULE_NAME = ZZFileManager;
-				PRODUCT_NAME = ZZFileManager;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		441C7939108738A0C7CD37CBADE0B85E /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -785,8 +725,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -819,6 +758,38 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		7488D16B2D036C1505BA5DF83BF13996 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 99AFA258EAA99360B8486FD8D65EEAFE /* ZZFileManager.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ZZFileManager/ZZFileManager-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ZZFileManager/ZZFileManager-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ZZFileManager/ZZFileManager.modulemap";
+				PRODUCT_MODULE_NAME = ZZFileManager;
+				PRODUCT_NAME = ZZFileManager;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -989,18 +960,40 @@
 			};
 			name = Debug;
 		};
+		D25B1662F3A956174536BCDBF4F22BB4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E3A6D6F8862BC4AC409CA8A707C3716 /* ZZFileManager.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ZZFileManager/ZZFileManager-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ZZFileManager/ZZFileManager-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ZZFileManager/ZZFileManager.modulemap";
+				PRODUCT_MODULE_NAME = ZZFileManager;
+				PRODUCT_NAME = ZZFileManager;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D1AE6CF2D0F501561E58D7595594E1F /* Build configuration list for PBXNativeTarget "ZZFileManager" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				0A66E803EE6FC3726D8B8367EC5427B8 /* Debug */,
-				2090C6F2AC44ED840175117CC83DC839 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1015,6 +1008,15 @@
 			buildConfigurations = (
 				441C7939108738A0C7CD37CBADE0B85E /* Debug */,
 				BE874B114A0991701B09229EAAA4CA84 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C0C139D903FD5426ADEBAF269A04A56C /* Build configuration list for PBXNativeTarget "ZZFileManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D25B1662F3A956174536BCDBF4F22BB4 /* Debug */,
+				7488D16B2D036C1505BA5DF83BF13996 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
