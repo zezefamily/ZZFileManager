@@ -1,0 +1,6 @@
+framework module ZZFileManager {
+  umbrella header "ZZFileManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

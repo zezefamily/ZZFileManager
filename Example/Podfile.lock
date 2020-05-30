@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ZZFileManager (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ZZFileManager (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ZZFileManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ZZFileManager: 5f11eff2a428d83f9d222bfebc2416a47876b2ba
+
+PODFILE CHECKSUM: 79b45bd888174843c58483ffc4f7a5d01f7f74eb
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,22 @@
+{
+  "name": "ZZFileManager",
+  "version": "0.1.0",
+  "summary": "A short description of ZZFileManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zezefamily/ZZFileManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zezefamily": "wuwenmei@100tal.com"
+  },
+  "source": {
+    "git": "https://github.com/zezefamily/ZZFileManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZFileManager/Classes/**/*"
+}
